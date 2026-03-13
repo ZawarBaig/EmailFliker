@@ -6,3 +6,6 @@ Installation & Run
 
 Gmail to Gmail sender.check your crenditerials correctly.
 This repository is by zawar baig . please fork repository.
+Reqirements 
+python latest version
+
